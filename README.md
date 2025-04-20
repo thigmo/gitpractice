@@ -1,2 +1,2 @@
 # gitpractice
-testing github functionality
+testing github functionality from laptop to github
